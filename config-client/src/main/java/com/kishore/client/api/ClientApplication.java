@@ -22,7 +22,7 @@ public class ClientApplication {
 	@Lazy
 	private RestTemplate template;
 
-	@Value("${insurnace.provider.url}")
+	@Value("${url}")
 	public String url;
 
 	@GetMapping("/message")

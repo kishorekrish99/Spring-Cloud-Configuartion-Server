@@ -1,4 +1,4 @@
-package com.javatechie.spring.insurance.server.api;
+package com.kishore.server.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

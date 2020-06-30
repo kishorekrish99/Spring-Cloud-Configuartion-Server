@@ -1,4 +1,4 @@
-package com.javatechie.spring.insurance.clinet.api;
+package com.kishore.client.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
